@@ -1,0 +1,18 @@
+{
+    "name": "task-tracker-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "run": "node index.ts"
+    },
+    "type": "module",
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@types/node": "^26.6.4",
+      "typescript": "^7.0.2"
+    }
+  }
+  
